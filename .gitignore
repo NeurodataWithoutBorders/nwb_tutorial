@@ -1,0 +1,30 @@
+# NWB Tutorial
+*.nwb
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/extensions.json
+.history
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# shell scripts (e.g. used with fswatch)
+*.sh
+
+# vscode
+.vscode/
+
+#mypy
+.mypy_cache/
